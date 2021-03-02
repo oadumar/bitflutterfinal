@@ -1,4 +1,4 @@
-# BIT Flutter final
+# bitflutterfinal
 
 Proyecto final curso BIT Flutter
 
@@ -25,4 +25,3 @@ En "Forgot Password?" (recover.dart):
   Se agregón un AlertDialog que le informa al usuario que se le envió un correo.
   Se agregó el botón "Home" para volver al "LOGIN" por si acaso el usuario se retracta.
   Se probó y funcionó de forma correcta.
-  
