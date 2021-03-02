@@ -1,4 +1,4 @@
-# cursoflutter
+# BIT Flutter final
 
 Proyecto final curso BIT Flutter
 
