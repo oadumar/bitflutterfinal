@@ -6,7 +6,7 @@ El proyecto funciona totalmente hasta donde lo vimos en clase.
 
 La primera etapa fue re-convertir el proyecto al modelo que estabamos trabajando con el tutor César de BIT, es decir, sacar los widgets de las librerías externas y colocarlos en cada archivo.
 
-Mejoras:
+MEJORAS REALIZADAS:
 
 En "LOGIN" (loginpage.dart) :
   Se incluyó y programó el suffixIcon del password para administrar obscureText
