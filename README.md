@@ -13,7 +13,7 @@ En "LOGIN" (loginpage.dart) :
 
 En "SIGN UP" (register.dart)
  Se agregó el botón "Home" para volver al "LOGIN" por si acaso el usuario se retracta.
- Se afinó el suffixIcon del password para administrar obscureText
+ Se afinó el suffixIcon del password para administrar obscureText.
  Se modificaron los botones para que quedaran con el concepto de todo el proyecto.
 
 Se activó el enlace "Forgot Password?" para recuperar la contraseña.
