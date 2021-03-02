@@ -1,16 +1,28 @@
 # cursoflutter
 
-A new Flutter application.
+Proyecto final curso BIT Flutter
 
-## Getting Started
+El proyecto funciona totalmente hasta donde lo vimos en clase.
 
-This project is a starting point for a Flutter application.
+La primera etapa fue re-convertir el proyecto al modelo que estabamos trabajando con el tutor César de BIT, es decir, sacar los widgets de las librerías externas y colocarlos en cada archivo.
 
-A few resources to get you started if this is your first Flutter project:
+Mejoras:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+En "LOGIN" (loginpage.dart) :
+  Se incluyó y programó el suffixIcon del password para administrar obscureText
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+En "SIGN UP" (register.dart)
+ Se agregó el botón "Home" para volver al "LOGIN" por si acaso el usuario se retracta.
+ Se afinó el suffixIcon del password para administrar obscureText
+ Se modificaron los botones para que quedaran con el concepto de todo el proyecto.
+
+Se activó el enlace "Forgot Password?" para recuperar la contraseña.
+
+En "Forgot Password?" (recover.dart):
+  Se incluyó el campo de correo.
+  Se agregó el botón "Recover" para enviar el correo de recuperación.
+  Se agregó la validación de correo_no_vacio.
+  Se agregón un AlertDialog que le informa al usuario que se le envió un correo.
+  Se agregó el botón "Home" para volver al "LOGIN" por si acaso el usuario se retracta.
+  Se probó y funcionó de forma correcta.
+  
